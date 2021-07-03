@@ -1,0 +1,98 @@
+h2:hover{
+  background-color: #8DB596;
+}
+body
+{
+background-color: #8DB596;
+position: relative;
+top: 0px;
+
+}
+
+.heading
+{
+  display: inline-block;
+  color: #213E3B;
+  font-size: 60px;
+position: relative;
+top: -30px;
+bottom: 0px;
+left: 245px;
+
+}
+
+.heading1
+{
+  display: inline-block;
+  word-spacing: 2px;
+  font-size: 20px;
+  color: #213E3B;
+  position: relative;
+  top: -30px;
+  bottom: 0px;
+  left: 450px;
+}
+
+.imgheading
+{
+position: relative;
+left: 310px;
+bottom: 28px;
+}
+.imgheading1
+{
+position: relative;
+left: 940px;
+bottom: 28px;
+}
+
+.Topimage
+{
+position: relative;
+top: -55px;
+bottom: 0px;
+}
+
+.head1
+{
+color: white;
+background-color: #213E3B;
+display: inline-block;
+position: relative;
+left: 300px;
+top: -60px;
+}
+
+.head2
+{
+color: white;
+background-color: #213E3B;
+display: inline-block;
+position: relative;
+left: 450px;
+bottom: 10px;
+top: -60px;
+}
+
+.head3
+{
+color: white;
+background-color: #213E3B;
+display: inline-block;
+position: relative;
+left: 600px;
+bottom: 10px;
+top: -60px;
+}
+
+.head4
+{
+color: white;
+background-color: #213E3B;
+display: inline-block;
+position: relative;
+left: 750px;
+bottom: 10px;
+top: -60px;
+
+}
