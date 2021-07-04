@@ -96,3 +96,8 @@ bottom: 10px;
 top: -60px;
 
 }
+.productimg
+{
+  position: relative;
+  left: 500px;
+}
