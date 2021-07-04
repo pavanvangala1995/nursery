@@ -31,6 +31,7 @@ top: -30px;
 bottom: 0px;
 left: 245px;
 
+
 }
 
 .heading1
@@ -44,6 +45,10 @@ left: 245px;
   bottom: 0px;
   left: 450px;
 }
+/* div.fixed
+{
+  position: fixed;
+} */
 
 .imgheading
 {
