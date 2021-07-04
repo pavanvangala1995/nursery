@@ -45,6 +45,13 @@ left: 245px;
   bottom: 0px;
   left: 450px;
 }
+div.aboutusinformation
+{
+background-color: #74B49B;
+width: 95%;
+height: 50px;
+overflow: visible;
+}
 
 .imgheading
 {
