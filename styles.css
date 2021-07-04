@@ -12,8 +12,13 @@ top: 0px;
 {
   font-size: 30px;
   color: #7B113A;
-  position: relative;
-  left: 30%;
+  text-align: center;
+}
+.home2
+{
+  font-size: 20px;
+  color: black;
+  text-align: center;
 }
 
 .heading
